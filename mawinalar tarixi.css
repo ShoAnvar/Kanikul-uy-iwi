@@ -1,0 +1,18 @@
+.a{
+    background-color: black;
+    text-decoration: none; 
+    color: #0080ff;
+    font-size: 19px;
+    width: 25%;
+    text-transform: uppercase;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: #00ffff;
+    float: right;
+    margin:20px 30px 15px 25px;
+}
+.a:hover{
+    color: black;
+    background-color: #00ffff;
+    border-radius: 5px;
+}
